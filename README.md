@@ -1,5 +1,5 @@
 # ASFF-Det
-The complete code of ASFF-Det will be released soon!
+The paper is still in submission and if it is approved, the code will be uploaded at the first opportunity!  
 
 ### Detection results and weights
 
